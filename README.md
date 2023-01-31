@@ -12,3 +12,8 @@
 |3  |Concatenacion mediante funcion Format   |programa2.py
 |4  |Operaciones con funcion Format          |programa3.py
 |5  |Funcion imput y casting                 |programa4.py
+
+### TAREAS
+|No.|Descripcion          |Archivo
+|--|--|--|
+|1  |Area y perimetro de un triangulo  |tarea0.py
