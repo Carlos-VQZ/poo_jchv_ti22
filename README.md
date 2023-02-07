@@ -15,3 +15,4 @@
 |6  |Area y perimetro de un triangulo           |programa5.py
 |7  |Area y perimetro de un circulo y cuadrado  |programa6.py
 |8  |Comparar 2 numeros enteros e imprimir el numero mayor|programa7.py
+|8  |Muchas maneras de comparar 2 numeros enteros e imprimir el numero mayor|programa8.py
