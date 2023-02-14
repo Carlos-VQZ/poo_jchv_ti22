@@ -1,3 +1,9 @@
+""" (Programa12) alumno.py
+    Nombre: Juan Carlos Hernandez Vazquez
+    Fecha: 13/02/2023
+    Descripcion: Se definio la clase alumno           mediante "class" y se agregaron atributos         privados y publicos (__nombre/nombre) y se        definieron metodos mediante la fucnion "def"      y la función self que es la llamada a la clase
+"""
+
 class Alumno:  #  se define la clase usando pascal case
 	__nombre = None  #  __nombre variable privada 
 
