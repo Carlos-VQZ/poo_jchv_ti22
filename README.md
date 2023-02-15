@@ -18,3 +18,4 @@
 |9  |Muchas maneras de comparar 2 numeros enteros e imprimir el numero mayor|programa8.py
 |10 |Comparar 2 numeros enteros e imprimir el numero mayor mediante definiciones|programa8.py
 |11  |Comparar 2 numeros enteros e imprimir el numero mayor mediante definiciones de la forma pythonic|programa8.py
+|12|

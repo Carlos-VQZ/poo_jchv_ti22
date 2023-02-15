@@ -1,10 +1,10 @@
-""" Programa1
+""" Programa 2
     Nombre: Juan Carlos Hernandez Vazquez
     Fecha: 24/01/2023
     Descripcion:
     En este programa se realizo una concatenacion     
     mediante la funcion format la cual permite     
-    cincatenar variables de tipo string y variables de 
+    concatenar variables de tipo string y variables de 
     tipo int"""
 
 variable1 = "Hola " #Variable para caadena de caracteres
