@@ -17,17 +17,17 @@ class Alumno(Persona):
 		super().__init__()  #  hace una llamada a la super clase ej. "alumno(persona)
 		print("Alumno")
 
-objeto_persona = Persona()
-objeto_alumno = Alumno()
+objeto_persona = Persona()  #  asigna a un variable una clase  
+objeto_alumno = Alumno()  #  asigna a un variable una clase  
 
-objeto_persona.nombre="Dejha Thoris"
-print(objeto_persona.nombre)
+objeto_persona.nombre="Dejha Thoris"  #  asigna una valor a una variable de una clase
+print(objeto_persona.nombre)  #  imprime el valor de una varibale de una clase
 
-objeto_alumno.nombre="John carter"
-print(objeto_alumno.nombre)
+objeto_alumno.nombre="John carter"  #  asigna una valor a una variable de una clase
+print(objeto_alumno.nombre)   #  imprime el valor de una varibale de una clase
 
-objeto_alumno.email = "elpepe@gmail.com"
-print(objeto_alumno.email)
+objeto_alumno.email = "elpepe@gmail.com"  #  asigna una valor a una variable de una clase
+print(objeto_alumno.email)  #  imprime el valor de una varibale de una clase
 
 print(dir(objeto_persona))  #  La funcion dir muestra una lista ordenada de los métodos y propiedades de algún objeto. 
 

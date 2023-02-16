@@ -1,7 +1,9 @@
-""" (Programa11) persona.py
+""" (Programa14) persona.py
     Nombre: Juan Carlos Hernandez Vazquez
     Fecha: 13/02/2023
-    Descripcion: Se definio la clase alumno           mediante "class" y se agregaron atributos         privados y publicos (__nombre/nombre) y se        definieron metodos mediante la fucnion "def"      y la función self que es la llamada a la clase
+    Descripcion: Se definio la clase alumno  mediante "class" y se agregaron atributos 
+    privados y publicos (__nombre/nombre) y se definieron metodos mediante la fucnion "def"  
+    y la función self que es la llamada a la clase
 """
 
 
@@ -21,8 +23,8 @@ class Persona:    #  se define la clase usando pascal case
 		return self.__email  #  retorna el valor asigando de la variable privada
 		
 	
-dejha = Persona()  #  Persona
-dejha.setNombre("Dejha")  #  Persona
-print(dejha.getNombre())  #  None
-dejha.setEmail("dejha@utec.edu.mx")
-print(dejha.getEmail())
+dejha = Persona()  #  asigna a un variable una clase
+dejha.setNombre("Dejha")  #  llama a un objeto junto a una funcion ademas da un valor
+print(dejha.getNombre())  #  imprime un objeto y llama una funcion
+dejha.setEmail("dejha@utec.edu.mx")  #  llama a un objeto junto a una funcion ademas da un valor
+print(dejha.getEmail())  #  imprime un objeto y el objeto llama una funcion

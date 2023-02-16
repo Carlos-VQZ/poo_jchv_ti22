@@ -1,7 +1,8 @@
 """ (Programa12) alumno.py
     Nombre: Juan Carlos Hernandez Vazquez
     Fecha: 13/02/2023
-    Descripcion: Se definio la clase alumno           mediante "class" y se agregaron atributos         privados y publicos (__nombre/nombre) y se        definieron metodos mediante la fucnion "def"      y la función self que es la llamada a la clase
+    Descripcion: Se definio la clase alumno mediante "class" y se agregaron atributos  privados y publicos (__nombre/nombre) y se                
+    definieron metodos mediante la fucnion "def"  y la función self que es la llamada a la clase
 """
 
 class Alumno:  #  se define la clase usando pascal case
@@ -31,12 +32,12 @@ class Alumno:  #  se define la clase usando pascal case
 		return self.__carrera  #  retorna el valor asigando de la variable privada
 		
 
-carlos = Alumno() 
-carlos.setNombre("CarlosPepe")
-print(carlos.getNombre())
+carlos = Alumno()  #  asigna a un variable una clase
+carlos.setNombre("CarlosPepe")   #  llama a un objeto junto a una funcion ademas da un valor
+print(carlos.getNombre())  #  imprime un objeto y llama una funcion
  
-carlos.setMatricula("1722110547")
-print(carlos.getMatricula())
+carlos.setMatricula("1722110547")  #  llama a un objeto junto a una funcion ademas da un valor
+print(carlos.getMatricula())  #  imprime un objeto y llama una funcion
 
-carlos.setCarrera("Ingenieria en gestión y mantenimiento de software")
-print(carlos.getCarrera())
+carlos.setCarrera("Ingenieria en gestión y mantenimiento de software")  #  llama a un objeto junto a una funcion ademas da un valor
+print(carlos.getCarrera())  #  imprime un objeto y llama una funcion
