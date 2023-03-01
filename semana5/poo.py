@@ -1,4 +1,4 @@
-""" (Programa15) poo.py
+""" (Programa14) poo.py
     Nombre: Juan Carlos Hernandez Vazquez
     Fecha: 14/02/2023
     Descripcion:En este programa se observa las caracteristicas de la programacion orientada a objetos

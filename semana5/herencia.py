@@ -1,4 +1,4 @@
-""" (Programa13) poo.py
+""" (Programa12) poo.py
     Nombre: Juan Carlos Hernandez Vazquez
     Fecha: 14/02/2023
     Descripcion:En este programa se observa las caracteristica herencia en programacion orientada objetos

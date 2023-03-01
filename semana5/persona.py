@@ -1,4 +1,4 @@
-""" (Programa14) persona.py
+""" (Programa13) persona.py
     Nombre: Juan Carlos Hernandez Vazquez
     Fecha: 13/02/2023
     Descripcion: Se definio la clase alumno  mediante "class" y se agregaron atributos 
